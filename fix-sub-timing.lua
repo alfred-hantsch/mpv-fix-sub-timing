@@ -182,7 +182,7 @@ function get_fixed_time(tsec)
 end
 
 
--- almacena una nueva "marca de referencia" (se ejecuta al presionar "ctrl-m")
+-- almacena una nueva "marca de referencia". Se ejecuta al presionar "ctrl-m"
 -- esta función debe invocarse al menos dos veces antes de hacer la corrección
 function sub_marca_referencia()
     -- inicializa variables la primera vez que se invoca
