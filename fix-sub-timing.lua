@@ -1,5 +1,5 @@
 --[[
-Edita (sincroniza) el archivo de subtitulo SRT desde MPV y corrige errores comunes en el texto
+Edita (sincroniza) el archivo de subtitulo SRT desde MPV
 
 Basado en el scripts "fix_sub_timing":
 https://github.com/wiiaboo/mpv-scripts/blob/master/fix-sub-timing.lua
