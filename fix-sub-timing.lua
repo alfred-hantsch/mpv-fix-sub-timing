@@ -22,6 +22,8 @@ d) Presionar el shortcut para procesar el archivo (ctrl+s)
 
 El script edita el archivo SRT, ajusta el delay de MPV a cero y recarga el archivo SRT (corregido)
 
+Editado con VS Code
+
 ]]
 
 local utils = require 'mp.utils'
