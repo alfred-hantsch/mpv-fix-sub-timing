@@ -100,7 +100,7 @@ function get_srt_filename()
         end
     end
 
-    -- no se encontró
+    -- no se encontró el archivo
     return false
 end
 
